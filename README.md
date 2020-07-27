@@ -2,7 +2,7 @@
 code for MEBCRN: **Robust water-fat separation based on deep learning model exploring multi-echo nature of mGRE**
 
 ## The structure of MEBCRN 
-<img src="mebcrn.png" width="1200" />
+<img src="MEBCRN.png" width="1200" />
 
 
 
