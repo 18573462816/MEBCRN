@@ -28,7 +28,8 @@ code for MEBCRN: **Robust water-fat separation based on deep learning model expl
 Download the training dataset from:
 https://data.mendeley.com/datasets/pypbrjnp4j/1
 
-Download the 2012 ISMRM Challenge dataset from: 
+Download the 2012 ISMRM Challenge dataset from:
+
 https://challenge.ismrm.org/node/4
 
 https://challenge.ismrm.org/node/49
