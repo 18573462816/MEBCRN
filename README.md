@@ -8,7 +8,7 @@ code for MEBCRN: **Robust water-fat separation based on deep learning model expl
 
 ## Separation Sample
 
-![image](https://github.com/18573462816/MEBCRN/blob/master/separation_sample.png)
+![image](https://github.com/18573462816/MEBCRN/blob/master/separation%20sample.png)
 
 ## Train and Test
 
