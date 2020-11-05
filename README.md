@@ -1,5 +1,5 @@
 # MEBCRN
-code for MEBCRN: **Robust water-fat separation based on deep learning model exploring multi-echo nature of mGRE**
+code for MEBCRN: **Robust water-fat separation based on deep learning model exploring multi-echo nature of mGRE**. For details see:http://dx.doi.org/10.1002/mrm.28586, Magnetic Resonance in Medicine.
 
 ## The structure of MEBCRN 
 ![image](https://github.com/18573462816/MEBCRN/blob/master/MEBCRN.png)
