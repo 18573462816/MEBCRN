@@ -79,7 +79,7 @@ class MEBCunit(nn.Module):
     def forward(self, input, test=False):
     
         ne, nb, nc, nx, ny = input.shape 
-        size_o = [ne,nb, self.hidden_size//8, nx, ny
+        size_o = [ne,nb, self.hidden_size//8, nx, ny]
         
         if test:
             with torch.no_grad():
